@@ -1,0 +1,9 @@
+.vs
+portsf/portsf.vcxproj.user
+portsf/portsf.vcxproj.filters
+tfork1/tfork1.vcxproj.user
+tfork1/tfork1.vcxproj.filters
+tfork2/tfork2.vcxproj.user
+tfork2/tfork2.vcxproj.filters
+*/x64
+x64
