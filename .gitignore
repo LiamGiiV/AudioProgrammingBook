@@ -1,4 +1,7 @@
 .vs
+expad/expad.vcxproj.user
+expad/expad.vcxproj.filters
+expad/x65
 portsf/portsf.vcxproj.user
 portsf/portsf.vcxproj.filters
 tfork1/tfork1.vcxproj.user

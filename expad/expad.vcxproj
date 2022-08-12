@@ -21,8 +21,8 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{ac2978bf-cbb1-496c-99aa-b9d9c452144a}</ProjectGuid>
-    <RootNamespace>tfork2</RootNamespace>
+    <ProjectGuid>{47a2b67e-d25c-4504-857f-b3cb19878640}</ProjectGuid>
+    <RootNamespace>expad</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -127,7 +127,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="tfork2.c" />
+    <ClCompile Include="expad.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
